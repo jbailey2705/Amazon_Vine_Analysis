@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 Big Data analysis using Google Colab, Pyspark, Postgres/pgAdmin, AWS RDS, and SQL
 
-![VineLogo](https://user-images.githubusercontent.com/109354592/204039225-657fd385-e23c-4b80-a79a-7451944e0f06.png)
+![VineLogo](https://user-images.githubusercontent.com/109354592/204041605-7ec769ed-3454-4fa2-ac8a-338d28b53abb.png)
 
 ## Overview
 
