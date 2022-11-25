@@ -40,8 +40,8 @@ Results reduced the total number of reviews from 3M to 50.7K. This allowed us to
    * **Non-Vine** members gave _23,034_ out of _49,659_ reviews a `5 star rating`.
    
 **3.What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**  
-   * `_42%_` of the reviews for **Vine** members were rated `5 stars`.
-   * `_46.4%_` of the reviews for **Non-Vine** members were rated `5 stars`.
+   * _`42%`_ of the reviews for **Vine** members were rated `5 stars`.
+   * _`46.4%`_ of the reviews for **Non-Vine** members were rated `5 stars`.
   
 ## Summary
 
