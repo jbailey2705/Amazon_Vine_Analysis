@@ -45,8 +45,10 @@ Results reduced the total number of reviews from 3M to 50.7K. This allowed us to
   
 ## Summary
 
+Vine members didn't show bias when rating their products considering that the number of 5-star ratings was 10% less than Non-Vine members (42% vs. 46.4%).
+We can assume that Vine customers are more critical when submitting their review. However, in order to support this assumption further, we should include all of the data opposed to filtering down to the percentage of **`helpful vs. total votes`**, that was used for this analysis. Reviewing the full dataset  would give us more information, allowing us to further support our assumption as shown below.
 
- 
+![OverallCount](https://user-images.githubusercontent.com/109354592/204048750-6e06b627-53ae-4919-be61-a7959c798464.png)
 
 
 
