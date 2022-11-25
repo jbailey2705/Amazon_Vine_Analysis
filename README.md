@@ -14,3 +14,18 @@ Companies paying a fee to Amazon may provide some free products to it's members,
   * `AWS RDS`
   * `Google Colabortory` - used to import `PySpark`
   * `Postgres` - used to create tables in `SQL` 
+  * `amazon_reviews_us_Electronics`
+  
+## Results
+  
+  There are over 3 million reviews recorded. To drill down and focus on the reviews that will help us with our analysis we'll filter the dataset by:
+   * `Count of Total Votes` greater or equal to 20.
+   * `Percent` of `Helpful Votes` to `Total Votes equal` or greater than 50%.
+   
+![DataGreater20_50](https://user-images.githubusercontent.com/109354592/204043885-6ad6cdf2-730f-45d4-be91-f5046b44e85a.png)
+   
+Results reduced the total number of reviews from 3M to 50.7K. This allowed us to answer the following questions:
+
+1. How many Vine reviews and non-Vine reviews were there?
+
+Vine members made up only 2.1% (1,080) of the reviews whereas the remaining 97.9% were Non-Vine members (49,659).
