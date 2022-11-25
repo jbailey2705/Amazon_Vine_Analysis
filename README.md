@@ -26,6 +26,31 @@ Companies paying a fee to Amazon may provide some free products to it's members,
    
 Results reduced the total number of reviews from 3M to 50.7K. This allowed us to answer the following questions:
 
-1. How many Vine reviews and non-Vine reviews were there?
+**1. How many Vine reviews and non-Vine reviews were there?**
+   * Vine members made up only 2.1% (1,080) of the reviews whereas the remaining 97.9% were Non-Vine members (49,659).
+   
+![VineNonVineTotal](https://user-images.githubusercontent.com/109354592/204044158-957f49b6-de0a-4006-8f98-04e8e1d586ac.png)
 
-Vine members made up only 2.1% (1,080) of the reviews whereas the remaining 97.9% were Non-Vine members (49,659).
+![Vine](https://user-images.githubusercontent.com/109354592/204044256-0e9bac6a-c97a-47eb-8a06-59726d5ac7d7.png)
+
+![NonVine](https://user-images.githubusercontent.com/109354592/204044270-9faac817-d643-42c7-be46-b4195bd3e707.png)
+
+**2.How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
+   * **Vine** members gave _454_ out of _1,080_ reviews a `5 star rating`.
+   * **Non-Vine** members gave _23,034_ out of _49,659_ reviews a `5 star rating`.
+   
+**3.What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**  
+   * `_42%_` of the reviews for **Vine** members were rated `5 stars`.
+   * `_46.4%_` of the reviews for **Non-Vine** members were rated `5 stars`.
+  
+## Summary
+
+
+ 
+
+
+
+
+
+
+
