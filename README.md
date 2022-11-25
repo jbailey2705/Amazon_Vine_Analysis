@@ -13,4 +13,4 @@ Companies paying a fee to Amazon may provide some free products to it's members,
   * `PySpark`
   * `AWS RDS`
   * `Google Colabortory` - used to import `PySpark`
-  * `Postgres` - used to create tables in `SQL`
+  * `Postgres` - used to create tables in `SQL` 
